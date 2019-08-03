@@ -9,7 +9,7 @@ title: About
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: >
-  SEBIN OH | Software Engineer
+  SEBIN OH, Software Engineer
 
 # You can show the description on the page by deleting this line:
 hide_description: false
