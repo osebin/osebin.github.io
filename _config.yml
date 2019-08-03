@@ -36,12 +36,12 @@ keywords:              [s/w, software, enginner, ai, deeplearning, nn, ml, andro
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/icon.png
+logo:                  /assets/img/profile/20180225_160214.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <Steven> <Oh>
-  email:               <osebin@me.com>
+  name:                SEBIN OH
+  email:               osebin@me.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
