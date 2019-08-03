@@ -12,7 +12,7 @@ description: >
   SEBIN OH | Software Engineer
 
 # You can show the description on the page by deleting this line:
-hide_description: true
+hide_description: false
 
 # TODO
 image: /assets/img/profile/20180225_160214.jpg
