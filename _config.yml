@@ -53,7 +53,7 @@ menu:
   - title:             Developments
     url:               /example/
   - title:             Deep learning
-    url:               /deep_learning/
+    url:               /deeplearning/
   - title:             About
     url:               /about/
 
