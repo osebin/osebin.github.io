@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Example Content
+title: Czech
 categories: trips
 description: >
-  A page showing how regular markdown content is styled in Hydejack.
-image: /assets/img/blog/example-content-ii.jpg
+  Trip to Czech
 noindex: true
 ---
 
+![Full-width image](https://github.com/osebin/osebin.github.io/blob/master/assets/img/czech/IMG_0514.jpg){:.lead data-width="800" data-height="100"}
