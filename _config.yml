@@ -19,19 +19,19 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 SEBIN's Space
+title:                 SEBIN OH
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "S/W Dev, AI, Deep learning"
+  "S/W Engineer, Android, Deep learning"
 
 # A shorter description for the sidebar.
 tagline:               >
   "S/W Dev, AI, Deep learning"
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [s/w, software, enginner, ai, deeplearning, nn, ml, android]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
