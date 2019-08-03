@@ -19,7 +19,7 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Dev. Space
+title:                 SEBIN's Space
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -50,10 +50,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             Developments
     url:               /example/
-  - title:             Documentation
-    url:               https://hydejack.com/docs/
+  - title:             Deep learning
+    url:               /deep_learning/
   - title:             About
     url:               /about/
 
