@@ -7,4 +7,4 @@ description: >
 noindex: true
 ---
 
-![Full-width image](https://github.com/osebin/osebin.github.io/blob/master/assets/img/czech/IMG_0514.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](https://github.com/osebin/osebin.github.io/blob/master/assets/img/czech/IMG_0514.jpg?raw=true){:.lead data-width="800" data-height="100"}
