@@ -24,14 +24,11 @@ title:                 SEBIN's Space
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
-  Open `_config.yml` to edit this text.
+  "S/W Dev, AI, Deep learning"
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+  "S/W Dev, AI, Deep learning"
 
 # A list of keywords for your blog
 keywords:              []
@@ -50,10 +47,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Developments
-    url:               /example/
+  - title:             Blog
+    url:               /blog/
   - title:             Deep learning
     url:               /deeplearning/
+  - title:             Trips
+    url:               /trips/    
   - title:             About
     url:               /about/
 
